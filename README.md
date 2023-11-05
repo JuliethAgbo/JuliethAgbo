@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Julieth Agbo
-- 👀 I’m interested in Data Analysis using Pyton, Excel & PowerBI
+- 👀 I’m interested in Data Analysis using Python, Excel & PowerBI
 - 🌱 I’m currently learning Excel, Python and PowerBI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on juliethagbo@gmail.com
